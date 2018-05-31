@@ -5,7 +5,9 @@ from urllib.parse import urljoin
 import csv
 
 # 配置
-executable_path = '/Users/liwei/geckodriver'
+# executable_path = '/Users/liwei/geckodriver'
+executable_path = "C:\\Users\\Administrator\\Desktop\\crawl-leetcode\\geckodriver-v0.19.1-win64\\geckodriver.exe"
+
 leetcode_url_en = 'https://leetcode.com/problemset/all/'
 leetcode_url_cn = 'https://leetcode-cn.com/problemset/all/'
 question_select_en = ""  # question-app > div > div:nth-child(2) > div.question-list-base > div.table-responsive.question-list-table > table > tbody.reactable-pagination > tr > td > span.row-selector > select""
@@ -75,11 +77,12 @@ def write_to_csv(problems, problems_file_name):
 
 
 if __name__ == '__main__':
-    # download_page_of_all_link()
-    problems_cn = []
-    parse_page(problems_cn, html_name_cn)
+    # download_page_of_all_link(executable_path, leetcode_url_cn, select_visible_text_cn, html_name_cn)
+    # problems_cn = []
+    # parse_page(problems_cn, html_name_cn)
     # write_to_csv(problems_cn, problems_file_name_cn)
 
+    download_page_of_all_link(executable_path, leetcode_url_en, select_visible_text_en, html_name_en)
     problems_en = []
     parse_page(problems_en, html_name_en)
-    # write_to_csv(problems_en, problems_file_name_en)
+    write_to_csv(problems_en, problems_file_name_en)
