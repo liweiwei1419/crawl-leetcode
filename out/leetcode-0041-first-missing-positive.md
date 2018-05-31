@@ -1,10 +1,10 @@
-# 填写
+# First Missing Positive
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)  。
++ 中文网址：[41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/description/)  。
 ## 思路分析
 求解关键：
 

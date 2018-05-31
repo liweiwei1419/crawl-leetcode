@@ -1,10 +1,10 @@
-# 填写
+# Best Time to Buy and Sell Stock
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)  。
++ 中文网址：[121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)  。
 ## 思路分析
 求解关键：
 

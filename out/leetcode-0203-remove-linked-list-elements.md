@@ -1,10 +1,10 @@
-# 填写
+# Remove Linked List Elements
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)  。
++ 中文网址：[203. 删除链表中的节点](https://leetcode-cn.com/problems/remove-linked-list-elements/description/)  。
 ## 思路分析
 求解关键：
 

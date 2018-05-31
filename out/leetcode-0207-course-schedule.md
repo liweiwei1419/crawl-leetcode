@@ -1,10 +1,10 @@
-# 填写
+# Course Schedule
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)  。
++ 中文网址：[207. 课程表](https://leetcode-cn.com/problems/course-schedule/description/)  。
 ## 思路分析
 求解关键：
 

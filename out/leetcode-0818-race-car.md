@@ -1,10 +1,10 @@
-# 填写
+# Race Car
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[818. Race Car](https://leetcode.com/problems/race-car/description/)  。
++ 中文网址：[818. 赛车](https://leetcode-cn.com/problems/race-car/description/)  。
 ## 思路分析
 求解关键：
 

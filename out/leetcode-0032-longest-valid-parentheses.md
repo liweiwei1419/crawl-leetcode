@@ -1,10 +1,10 @@
-# 填写
+# Longest Valid Parentheses
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)  。
++ 中文网址：[32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/description/)  。
 ## 思路分析
 求解关键：
 

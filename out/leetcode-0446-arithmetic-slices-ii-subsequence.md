@@ -1,10 +1,10 @@
-# 填写
+# Arithmetic Slices II - Subsequence
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)  。
++ 中文网址：[446. Arithmetic Slices II - Subsequence](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/description/)  。
 ## 思路分析
 求解关键：
 

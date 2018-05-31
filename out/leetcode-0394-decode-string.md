@@ -1,10 +1,10 @@
-# 填写
+# Decode String
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[394. Decode String](https://leetcode.com/problems/decode-string/description/)  。
++ 中文网址：[394. 字符串解码](https://leetcode-cn.com/problems/decode-string/description/)  。
 ## 思路分析
 求解关键：
 

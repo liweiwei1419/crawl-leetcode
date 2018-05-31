@@ -1,10 +1,10 @@
-# 填写
+# Redundant Connection
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)  。
++ 中文网址：[684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/description/)  。
 ## 思路分析
 求解关键：
 

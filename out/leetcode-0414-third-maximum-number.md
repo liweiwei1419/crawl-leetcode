@@ -1,10 +1,10 @@
-# 填写
+# Third Maximum Number
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)  。
++ 中文网址：[414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/)  。
 ## 思路分析
 求解关键：
 

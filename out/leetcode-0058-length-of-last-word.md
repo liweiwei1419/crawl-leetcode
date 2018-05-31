@@ -1,10 +1,10 @@
-# 填写
+# Length of Last Word
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)  。
++ 中文网址：[58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/description/)  。
 ## 思路分析
 求解关键：
 

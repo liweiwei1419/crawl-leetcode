@@ -1,10 +1,10 @@
-# 填写
+# Number of Atoms
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/)  。
++ 中文网址：[726. 原子的数量](https://leetcode-cn.com/problems/number-of-atoms/description/)  。
 ## 思路分析
 求解关键：
 

@@ -1,10 +1,10 @@
-# 填写
+# Bulb Switcher II
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/)  。
++ 中文网址：[672. Bulb Switcher II](https://leetcode-cn.com/problems/bulb-switcher-ii/description/)  。
 ## 思路分析
 求解关键：
 

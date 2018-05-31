@@ -1,10 +1,10 @@
-# 填写
+# H-Index II
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[275. H-Index II](https://leetcode.com/problems/h-index-ii/description/)  。
++ 中文网址：[275. H指数 II](https://leetcode-cn.com/problems/h-index-ii/description/)  。
 ## 思路分析
 求解关键：
 

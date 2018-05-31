@@ -1,10 +1,10 @@
-# 填写
+# Word Frequency
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[192. Word Frequency](https://leetcode.com/problems/word-frequency/description/)  。
++ 中文网址：[192. 统计词频](https://leetcode-cn.com/problems/word-frequency/description/)  。
 ## 思路分析
 求解关键：
 

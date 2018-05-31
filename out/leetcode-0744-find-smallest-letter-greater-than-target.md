@@ -1,10 +1,10 @@
-# 填写
+# Find Smallest Letter Greater Than Target
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)  。
++ 中文网址：[744. 寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/)  。
 ## 思路分析
 求解关键：
 

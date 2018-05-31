@@ -1,10 +1,10 @@
-# 填写
+# Degree of an Array
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)  。
++ 中文网址：[697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/description/)  。
 ## 思路分析
 求解关键：
 

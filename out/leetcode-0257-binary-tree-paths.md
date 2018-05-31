@@ -1,10 +1,10 @@
-# 填写
+# Binary Tree Paths
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)  。
++ 中文网址：[257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/description/)  。
 ## 思路分析
 求解关键：
 

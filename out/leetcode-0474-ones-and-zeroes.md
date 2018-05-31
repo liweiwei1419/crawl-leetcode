@@ -1,10 +1,10 @@
-# 填写
+# Ones and Zeroes
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)  。
++ 中文网址：[474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/description/)  。
 ## 思路分析
 求解关键：
 

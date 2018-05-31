@@ -1,10 +1,10 @@
-# 填写
+# Find Peak Element
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)  。
++ 中文网址：[162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/description/)  。
 ## 思路分析
 求解关键：
 

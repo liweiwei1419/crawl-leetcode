@@ -1,10 +1,10 @@
-# 填写
+# Max Consecutive Ones
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)  。
++ 中文网址：[485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/description/)  。
 ## 思路分析
 求解关键：
 

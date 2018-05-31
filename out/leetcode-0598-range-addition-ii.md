@@ -1,10 +1,10 @@
-# 填写
+# Range Addition II
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[598. Range Addition II](https://leetcode.com/problems/range-addition-ii/description/)  。
++ 中文网址：[598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/description/)  。
 ## 思路分析
 求解关键：
 

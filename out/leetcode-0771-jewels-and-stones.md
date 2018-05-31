@@ -1,10 +1,10 @@
-# 填写
+# Jewels and Stones
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)  。
++ 中文网址：[771. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)  。
 ## 思路分析
 求解关键：
 

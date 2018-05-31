@@ -1,10 +1,10 @@
-# 填写
+# Stickers to Spell Word
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/)  。
++ 中文网址：[691. Stickers to Spell Word](https://leetcode-cn.com/problems/stickers-to-spell-word/description/)  。
 ## 思路分析
 求解关键：
 

@@ -1,10 +1,10 @@
-# 填写
+# Isomorphic Strings
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)  。
++ 中文网址：[205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/description/)  。
 ## 思路分析
 求解关键：
 

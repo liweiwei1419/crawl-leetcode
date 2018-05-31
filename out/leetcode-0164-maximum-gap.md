@@ -1,10 +1,10 @@
-# 填写
+# Maximum Gap
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[164. Maximum Gap](https://leetcode.com/problems/maximum-gap/description/)  。
++ 中文网址：[164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/description/)  。
 ## 思路分析
 求解关键：
 

@@ -1,10 +1,10 @@
-# 填写
+# Fizz Buzz
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)  。
++ 中文网址：[412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)  。
 ## 思路分析
 求解关键：
 

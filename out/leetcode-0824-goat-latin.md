@@ -1,10 +1,10 @@
-# 填写
+# Goat Latin
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[824. Goat Latin](https://leetcode.com/problems/goat-latin/description/)  。
++ 中文网址：[824. 山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/description/)  。
 ## 思路分析
 求解关键：
 

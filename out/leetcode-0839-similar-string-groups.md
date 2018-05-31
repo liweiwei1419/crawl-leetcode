@@ -1,10 +1,10 @@
-# 填写
+# Similar String Groups
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)  。
++ 中文网址：[839. 相似字符串组](https://leetcode-cn.com/problems/similar-string-groups/description/)  。
 ## 思路分析
 求解关键：
 

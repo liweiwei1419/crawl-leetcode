@@ -1,10 +1,10 @@
-# 填写
+# Big Countries
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[595. Big Countries](https://leetcode.com/problems/big-countries/description/)  。
++ 中文网址：[595. 大的国家](https://leetcode-cn.com/problems/big-countries/description/)  。
 ## 思路分析
 求解关键：
 

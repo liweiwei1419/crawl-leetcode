@@ -1,10 +1,10 @@
-# 填写
+# Range Module
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[715. Range Module](https://leetcode.com/problems/range-module/description/)  。
++ 中文网址：[715. Range Module](https://leetcode-cn.com/problems/range-module/description/)  。
 ## 思路分析
 求解关键：
 

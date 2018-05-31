@@ -1,10 +1,10 @@
-# 填写
+# Magic Squares In Grid
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/)  。
++ 中文网址：[840. 矩阵中的幻方](https://leetcode-cn.com/problems/magic-squares-in-grid/description/)  。
 ## 思路分析
 求解关键：
 

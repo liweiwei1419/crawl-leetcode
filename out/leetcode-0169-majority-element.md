@@ -1,10 +1,10 @@
-# 填写
+# Majority Element
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[169. Majority Element](https://leetcode.com/problems/majority-element/description/)  。
++ 中文网址：[169. 求众数](https://leetcode-cn.com/problems/majority-element/description/)  。
 ## 思路分析
 求解关键：
 

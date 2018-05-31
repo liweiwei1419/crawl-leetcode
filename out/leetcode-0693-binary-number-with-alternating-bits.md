@@ -1,10 +1,10 @@
-# 填写
+# Binary Number with Alternating Bits
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)  。
++ 中文网址：[693. 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/)  。
 ## 思路分析
 求解关键：
 

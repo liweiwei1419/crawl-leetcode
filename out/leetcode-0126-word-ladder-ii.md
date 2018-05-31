@@ -1,10 +1,10 @@
-# 填写
+# Word Ladder II
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)  。
++ 中文网址：[126. 单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/)  。
 ## 思路分析
 求解关键：
 

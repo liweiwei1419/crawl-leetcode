@@ -1,10 +1,10 @@
-# 填写
+# N-Queens II
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)  。
++ 中文网址：[52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/description/)  。
 ## 思路分析
 求解关键：
 

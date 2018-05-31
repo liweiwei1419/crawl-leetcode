@@ -1,10 +1,10 @@
-# 填写
+# 24 Game
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[679. 24 Game](https://leetcode.com/problems/24-game/description/)  。
++ 中文网址：[679. 24点游戏](https://leetcode-cn.com/problems/24-game/description/)  。
 ## 思路分析
 求解关键：
 

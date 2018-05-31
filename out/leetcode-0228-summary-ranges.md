@@ -1,10 +1,10 @@
-# 填写
+# Summary Ranges
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)  。
++ 中文网址：[228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/description/)  。
 ## 思路分析
 求解关键：
 

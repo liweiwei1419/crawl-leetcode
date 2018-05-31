@@ -1,10 +1,10 @@
-# 填写
+# Valid Phone Numbers
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/)  。
++ 中文网址：[193. 有效电话号码](https://leetcode-cn.com/problems/valid-phone-numbers/description/)  。
 ## 思路分析
 求解关键：
 

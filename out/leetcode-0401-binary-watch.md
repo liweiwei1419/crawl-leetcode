@@ -1,10 +1,10 @@
-# 填写
+# Binary Watch
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)  。
++ 中文网址：[401. 二进制手表](https://leetcode-cn.com/problems/binary-watch/description/)  。
 ## 思路分析
 求解关键：
 

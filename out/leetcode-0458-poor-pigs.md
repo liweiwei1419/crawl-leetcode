@@ -1,10 +1,10 @@
-# 填写
+# Poor Pigs
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[458. Poor Pigs](https://leetcode.com/problems/poor-pigs/description/)  。
++ 中文网址：[458. 可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/description/)  。
 ## 思路分析
 求解关键：
 

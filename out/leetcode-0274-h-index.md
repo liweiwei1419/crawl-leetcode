@@ -1,10 +1,10 @@
-# 填写
+# H-Index
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[274. H-Index](https://leetcode.com/problems/h-index/description/)  。
++ 中文网址：[274. H指数](https://leetcode-cn.com/problems/h-index/description/)  。
 ## 思路分析
 求解关键：
 

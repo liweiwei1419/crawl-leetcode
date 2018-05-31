@@ -1,10 +1,10 @@
-# 填写
+# Department Top Three Salaries
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/)  。
++ 中文网址：[185. 部门工资前三高的员工](https://leetcode-cn.com/problems/department-top-three-salaries/description/)  。
 ## 思路分析
 求解关键：
 

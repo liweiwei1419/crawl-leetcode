@@ -1,10 +1,10 @@
-# 填写
+# Valid Palindrome II
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)  。
++ 中文网址：[680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/)  。
 ## 思路分析
 求解关键：
 

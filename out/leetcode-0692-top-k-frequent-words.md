@@ -1,10 +1,10 @@
-# 填写
+# Top K Frequent Words
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)  。
++ 中文网址：[692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/description/)  。
 ## 思路分析
 求解关键：
 

@@ -1,10 +1,10 @@
-# 填写
+# Trips and Users
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[262. Trips and Users](https://leetcode.com/problems/trips-and-users/description/)  。
++ 中文网址：[262. 行程和用户](https://leetcode-cn.com/problems/trips-and-users/description/)  。
 ## 思路分析
 求解关键：
 

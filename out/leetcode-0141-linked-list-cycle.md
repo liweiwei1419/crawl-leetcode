@@ -1,10 +1,10 @@
-# 填写
+# Linked List Cycle
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)  。
++ 中文网址：[141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)  。
 ## 思路分析
 求解关键：
 

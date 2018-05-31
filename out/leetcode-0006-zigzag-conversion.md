@@ -1,10 +1,10 @@
-# 填写
+# ZigZag Conversion
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)  。
++ 中文网址：[6. Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/description/)  。
 ## 思路分析
 求解关键：
 

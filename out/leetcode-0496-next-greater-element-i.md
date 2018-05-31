@@ -1,10 +1,10 @@
-# 填写
+# Next Greater Element I
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)  。
++ 中文网址：[496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/)  。
 ## 思路分析
 求解关键：
 

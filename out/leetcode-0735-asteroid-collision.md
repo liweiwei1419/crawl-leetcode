@@ -1,10 +1,10 @@
-# 填写
+# Asteroid Collision
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：中等。
++ 英文网址：[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)  。
++ 中文网址：[735. 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/description/)  。
 ## 思路分析
 求解关键：
 

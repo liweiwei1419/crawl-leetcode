@@ -8,3 +8,16 @@
 1527775036870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Kda8J4COmrks"
 1527775040334	Marionette	INFO	Listening on port 57771
 1527775040522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527788916226	geckodriver	INFO	geckodriver 0.19.1
+1527788916249	geckodriver	INFO	Listening on 127.0.0.1:62157
+1527788919301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.UU2Ddqt80ROK"
+1527788925642	Marionette	INFO	Listening on port 62166
+1527788926750	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1527788974583	geckodriver	INFO	geckodriver 0.19.1
+1527788974608	geckodriver	INFO	Listening on 127.0.0.1:62263
+1527788977639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ivs9TEUaZarM"
+1527788985439	Marionette	INFO	Listening on port 62271
+1527788986050	Marionette	WARN	TLS certificate errors will be ignored for this session

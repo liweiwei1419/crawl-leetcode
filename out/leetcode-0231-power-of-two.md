@@ -1,10 +1,10 @@
-# 填写
+# Power of Two
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[231. Power of Two](https://leetcode.com/problems/power-of-two/description/)  。
++ 中文网址：[231. 2的幂](https://leetcode-cn.com/problems/power-of-two/description/)  。
 ## 思路分析
 求解关键：
 

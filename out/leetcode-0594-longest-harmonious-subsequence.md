@@ -1,10 +1,10 @@
-# 填写
+# Longest Harmonious Subsequence
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/)  。
++ 中文网址：[594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)  。
 ## 思路分析
 求解关键：
 

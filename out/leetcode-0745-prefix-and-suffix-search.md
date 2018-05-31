@@ -1,10 +1,10 @@
-# 填写
+# Prefix and Suffix Search
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：困难。
++ 英文网址：[745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/)  。
++ 中文网址：[745. 前缀和后缀搜索](https://leetcode-cn.com/problems/prefix-and-suffix-search/description/)  。
 ## 思路分析
 求解关键：
 

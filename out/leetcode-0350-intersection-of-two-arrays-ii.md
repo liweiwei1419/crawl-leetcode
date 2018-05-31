@@ -1,10 +1,10 @@
-# 填写
+# Intersection of Two Arrays II
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)  。
++ 中文网址：[350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)  。
 ## 思路分析
 求解关键：
 

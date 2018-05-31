@@ -1,10 +1,10 @@
-# 填写
+# Contains Duplicate
 
 ## 题目描述和难度
 + 题目描述：
-+ 题目难度：简单。中等。困难。
-+ 英文网址：[]()  。
-+ 中文网址：[]()  。
++ 题目难度：简单。
++ 英文网址：[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)  。
++ 中文网址：[217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)  。
 ## 思路分析
 求解关键：
 
