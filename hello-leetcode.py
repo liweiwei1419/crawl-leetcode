@@ -152,7 +152,7 @@ def read_from_template():
 
 def transform_template(row):
     template = template_content
-    template = re.sub('\$title\$', row['title_en_x'], template)
+    template = re.sub('\$title\$', str(row['num']) + '. ' + row['title_en_x'], template)
     template = re.sub('\$difficulty\$', row['difficulty_y'], template)
     template = re.sub('\$link-en\$', row['link_en'], template)
     template = re.sub('\$title-en\$', str(row['num']) + '. ' + row['title_en_x'], template)
