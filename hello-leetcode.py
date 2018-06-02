@@ -136,7 +136,12 @@ def merge_en_cn_problems():
     dataframe_cn = pd.read_csv(problems_file_name_cn, header=None)
     dataframe_cn.columns = ["num", "title_cn", "link_cn", "difficulty", "acp", "title_en"]
 
+    question_descriptions_file_name = "question_descriptions.csv"
+    dataframe_question_descriptions = pd.read_csv(question_descriptions_file_name, header=None)
+    dataframe_question_descriptions.columns = ["num", "question_descriptions"]
+
     result = pd.merge(dataframe_en, dataframe_cn, on='num')
+    result = pd.merge(result, dataframe_question_descriptions, on='num')
     result.to_csv("leet-code-en-cn-merge.csv", index=None)
     print("第 2 步：中英文 csv 文件合并完成！")
 
@@ -150,14 +155,26 @@ def read_from_template():
         template_content = fr.read()
 
 
+def get_difficulty_html(difficulty):
+    if difficulty == 'Easy':
+        return '<span class="label label-warning">简单</span>'
+
+    if difficulty == 'Medium':
+        return '<span class="label label-warning">中等</span>'
+
+    if difficulty == 'Hard':
+        return '<span class="label label-warning">困难</span>'
+
+
 def transform_template(row):
     template = template_content
     template = re.sub('\$title\$', str(row['num']) + '. ' + row['title_en_x'], template)
-    template = re.sub('\$difficulty\$', row['difficulty_y'], template)
+    template = re.sub('\$difficulty\$', get_difficulty_html(row['difficulty_x']), template)
     template = re.sub('\$link-en\$', row['link_en'], template)
     template = re.sub('\$title-en\$', str(row['num']) + '. ' + row['title_en_x'], template)
     template = re.sub('\$link-cn\$', row['link_cn'], template)
     template = re.sub('\$title-cn\$', str(row['num']) + '. ' + row['title_cn'], template)
+    template = re.sub('\$question_descriptions\$', row['question_descriptions'], template)
     return template
 
 
@@ -177,6 +194,7 @@ def read_template_and_replace():
 
 
 if __name__ == '__main__':
+    mkdir()
     # download_csv()
-    # merge_en_cn_problems()
+    merge_en_cn_problems()
     read_template_and_replace()
